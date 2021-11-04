@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Directories
+.idea
+.pytest_cache
+notebooks/.ipynb_checkpoints
+tests/.pytest_cache
+
+# Other Files
+*.coverage

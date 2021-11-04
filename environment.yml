@@ -1,0 +1,15 @@
+# YAML for setting up a conda environment for
+# the quantum-ai library
+name: quantum-ai
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib
+  - python>=3.8.2
+  - jupyter
+  - scikit-learn
+  - pip
+  - pip:
+    - tensorflow
+    - pennylane
