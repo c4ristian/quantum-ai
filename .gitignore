@@ -11,3 +11,6 @@ tests/.pytest_cache
 
 # Other Files
 *.coverage
+output/checkpoint
+output/*.csv
+output/*.tf.*
