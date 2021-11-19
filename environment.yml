@@ -13,3 +13,4 @@ dependencies:
   - pip:
     - tensorflow
     - pennylane
+    - pennylane-qiskit
